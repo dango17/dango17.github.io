@@ -1,10 +1,10 @@
 github_users:
-  - torvalds
+  - dango17
   - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
+  - dango17/Sandbox-Simulation
+  - dango17/RapturiousVision 
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
