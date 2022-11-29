@@ -18,6 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Hi! I'm Dan, a video game programming and design student from the U.K. I'm an extreamly passionate game developer who has had a massive intrest in the medium since a early age. Starting from using in-game editing tools in-games to create levels and mini-games, in my earlier days, to now later taking up programming and designing my own video games from scratch using a range of tools.  
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
